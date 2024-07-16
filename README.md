@@ -1,1 +1,1 @@
-A repo for all the projects i do for 1 month internship at prodigy info tech
+A repo for all the projects i do for 1 month internship at prodigy info tech.
